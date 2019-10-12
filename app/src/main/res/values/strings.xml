@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DictationTool</string>
+
+    <string name="progress_downloading">正在下载</string>
+
+    <string name="download">下载</string>
+    <string name="downloadResourcePackage">下载资源包</string>
+    <string name="startDictation">开始听写</string>
+</resources>
